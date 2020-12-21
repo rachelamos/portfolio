@@ -1,0 +1,9 @@
+.big-banner {
+    background-image: url(../images/background.jpg);
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: grey;
+}
