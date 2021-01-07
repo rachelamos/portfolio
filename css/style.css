@@ -1,50 +1,59 @@
-.big-banner {
+.image {
     background-image: url(../images/background.jpg);
+    height: 100%
+    background-size: cover;
 }
+
+footer {
+    height: 60px;
+    text-align: center;
+    padding-top: 15px;
+}
+
 
 /* body {
     margin-bottom: 60px;
-} */
+}
 
-/* footer {
+footer {
     position: absolute;
     bottom: 0;
     height: 60px;
     width: 100%;
-} */
+} 
 
 @media screen and (max-width: 992px) {
-    body {
-    }
+   .myContainer {
+
+   }
   
-    .wrapper {
-      /* Box-model */
+   .wrapper {
+      /* Box-model
       width: 100%;
       padding: 20px;
-    }
-  
-    #main-content,
-    #sidebar {
+    } 
+
+    #main-content {
       width: 100%;
     }
   
-    #sidebar {
+    /* #sidebar {
       margin-top: 40px;
-    }
+    } 
   }
   
   /* Additional Screen Sizes */
   
-  /* Width at 768px and below */
+  /* Width at 768px and below 
   @media screen and (max-width: 768px) {
     body {
     }
   
-    .wrapper {
-      /* Box-model */
+    /* .wrapper {
+      /* Box-model
       width: 100%;
       padding: 20px;
-    }
+    } 
   
     #main-content,
     #sidebar {
@@ -56,13 +65,13 @@
     }
   }
   
-  /* Width at 400px and below */
+  /* Width at 400px and below 
   @media screen and (max-width: 400px) {
-    body {
-    }
+    /* body {
+    } 
   
     .wrapper {
-      /* Box-model */
+      /* Box-model 
       width: 100%;
       padding: 20px;
     }
@@ -75,4 +84,4 @@
     #sidebar {
       margin-top: 40px;
     }
-  }
+  } */
