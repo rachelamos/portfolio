@@ -11,3 +11,13 @@ footer {
 .navbarNavDropdown {
     float: right;
 }
+
+.btn {
+  margin: 2px;
+}
+
+.row {
+  margin-bottom: 10px;
+  margin-right: 5px;
+}
+
