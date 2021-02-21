@@ -1,18 +1,22 @@
-# Responsive-Portfolio
-## This is my repo for the second homework assignment - a responsive portfolio.
+# Rachel Amos: Portfolio
 
-I built this project because I wanted to begin creating my portfolio to show to potential employers and clients. As I build this portfolio, I'll be able to showcase my work and abilities. My "About Me" section includes my goals as a developer, i.e., the hope that my code will be clean, and as of now, doesn't reflect what I believe my abilities are now.
+Full Stack Web Developer with a background in writing, project management, and logistics.
+Passionate learner and effective communicator with a knack for pushing projects to completion.
+Reputation for upbeat personality and always being a team player.
 
-To achieve my goal:
-1. I created all three html files and began laying out what was necessary in each one.
-2. The CSS file came next.
-3. Here I got stuck--I didn't realize that Bootstrap would fulfill my responsive needs for acceptance. But once that was clarified, I worked on polishing my code.
+Technologies:
+- HTML5, CSS3, JavaScript ES6+, Bootstrap, jQuery
 
-My hope is that as I grow in my skills as a developer, this portfolio will continue to grow and evolve to reflect current trends in the developer world.
+In my portfolio:
+1. Vacation Planner - HTML, CSS, JS, Bulma, Open Weather API, and Zomato API
+2. Password Generator - HTML, CSS, JS, Bootstrap
+3. Work Day Planner - HTML, CSS, JS, jQuery, Bootstrap, Moment.js
 
-[Demo of My Page](https://drive.google.com/file/d/1AyZ7eKliRlxIHz2NTTFQOJ0xv5sk5XSV/view)
+![About Page](images/aboutme.png)
 
-[Link to Application](https://rachelamos.github.io/Responsive-Portfolio/)
+![Portfolio Page](images/portfolio.png)
+
+[Link to Application](https://rachelamos.github.io/portfolio/)
 
 ---
 
