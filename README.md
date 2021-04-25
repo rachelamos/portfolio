@@ -9,6 +9,7 @@ Technologies:
 
 In my portfolio:
 1. Vacation Planner - HTML, CSS, JS, Bulma, Open Weather API, and Zomato API
+2. WeekDaze - HTML, CSS, JS, Chart.js, 
 2. Password Generator - HTML, CSS, JS, Bootstrap
 3. Work Day Planner - HTML, CSS, JS, jQuery, Bootstrap, Moment.js
 
